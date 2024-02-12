@@ -32,14 +32,14 @@ AudioAlchemy Equalizer empowers you to shape your soundscapes like never before.
 Gratitude goes out to all team members for their valuable contributions to this project.
 
 <div align="left">
+   <a href="https://github.com/AhmeddEmad7">
+    <img src="https://github.com/AhmeddEmad7.png" width="100px" alt="@AhmeddEmad7">
+  </a>
   <a href="https://github.com/hazemzakariasaad">
     <img src="https://github.com/hazemzakariasaad.png" width="100px" alt="@hazemzakariasaad">
   </a>
   <a href="https://github.com/nourhan-ahmedd">
     <img src="https://github.com/nourhan-ahmedd.png" width="100px" alt="@nourhan-ahmedd">
-  </a>
-  <a href="https://github.com/AhmeddEmad7">
-    <img src="https://github.com/AhmeddEmad7.png" width="100px" alt="@AhmeddEmad7">
   </a>
   <a href="https://github.com/raghdaneiazyy6">
     <img src="https://github.com/raghdaneiazyy6.png" width="100px" alt="@raghdaneiazy6">
